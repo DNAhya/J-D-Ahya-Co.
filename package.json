@@ -1,15 +1,10 @@
 {
   "name": "jd-ahya-co-website",
   "version": "1.0.0",
-  "description": "Professional website for J D Ahya & Co. Chartered Accountants",
-  "main": "index.html",
+  "description": "Static website for J D Ahya & Co., Chartered Accountants, Rajkot",
+  "private": true,
+  "homepage": "https://jdahya.com",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "vite": "^5.0.0"
+    "dev": "npx serve ."
   }
 }
