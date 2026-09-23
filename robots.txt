@@ -1,0 +1,8 @@
+# robots.txt — J D Ahya & Co., Chartered Accountants
+# https://jdahya.com/
+
+User-agent: *
+Allow: /
+
+# XML sitemap for search engines (Google Search Console, Bing Webmaster Tools)
+Sitemap: https://jdahya.com/sitemap.xml

@@ -1,0 +1,17 @@
+{
+  "name": "J D Ahya & Co. — Chartered Accountants",
+  "short_name": "J D Ahya & Co.",
+  "description": "Chartered Accountants in Rajkot, Gujarat offering Income Tax, GST, Accounting, Business Registration, Audit and Advisory services.",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#1F2229",
+  "theme_color": "#1E3552",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
